@@ -1,0 +1,66 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#font-size{
+    font-weight:bolder;
+}
+.flexible{
+    display: flex;
+    padding-bottom: 20px;
+    
+}
+#skipdiet-fixing img{
+    width: 80%;
+    
+}
+
+#skipdiet-text{
+    width: 80%;
+    padding-left: 100px;  
+    padding-top: 100px;
+}
+span{
+    color:orangered;
+}
+.button-decoration{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, rgb(238, 130, 110));
+    color: papayawhip;
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+.background-image{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+#aboutme-text{
+    padding-top: 100px;
+    padding-right: 100px;
+}
+#aboutme-image img{
+    width: 40%;
+    padding-left: 100px;
+}
+.middle-text{
+    padding-top: 10px;
+    text-align: center;
+}
+.recipies{
+    width: 100%;
+    border-radius: 5%;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding: 15px; 
+    box-shadow: 4px 5px 14px 0px #000000;
+}
+.recipies img{
+    width: 100%;
+    align-items: center;
+}
+.footer{
+    
+    background-color: rgb(10, 10, 20);
+    margin: 0px;
+    padding-bottom: 10px;
+    color: papayawhip
+}
